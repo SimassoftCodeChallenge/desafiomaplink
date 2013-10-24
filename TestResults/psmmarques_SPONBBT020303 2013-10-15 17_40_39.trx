@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="37b3d4e6-bdab-40e7-967f-54cf985eb1bd" name="psmmarques@SPONBBT020303 2013-10-15 17:40:39" runUser="INTRA\psmmarques" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="6bcf1d68-6e08-48b3-878b-45c9118dde71">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="psmmarques_SPONBBT020303 2013-10-15 17_40_39">
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.entit\bin\Debug\maplink.calculorota.business.entities.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\packages\AutoMapper.3.0.0\lib\net40\AutoMapper.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\bin\Debug\maplink.calculorota.common.integration.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business\bin\Debug\maplink.calculorota.business.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.config\bin\Debug\maplink.calculorota.common.config.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\packages\AutoMapper.3.0.0\lib\net40\AutoMapper.Net4.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.dtos\bin\Debug\maplink.calculorota.business.dtos.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\Documents\Visual Studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.util\bin\Debug\br.com.maplink.calculorota.common.util.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Data\br.com.maplink.calculorota.data\bin\Debug\br.com.maplink.calculorota.data.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-10-15T17:40:39.8866232-03:00" queuing="2013-10-15T17:40:40.5456891-03:00" start="2013-10-15T17:40:40.5916937-03:00" finish="2013-10-15T17:40:48.8305175-03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetRouteTest" storage="c:\users\psmmarques\documents\visual studio 2010\projects\br.com.maplink.calculorota\tests\br.com.maplink.calculorota.unittests\bin\debug\br.com.maplink.calculorota.unittests.dll" id="b9fc0699-3bd5-c8be-d85b-14771ae67254">
+      <Execution id="326cb1cb-473a-49f9-96bb-d947a59e5ccc" />
+      <TestMethod codeBase="C:/Users/psmmarques/documents/visual studio 2010/Projects/br.com.maplink.calculorota/Tests/br.com.maplink.calculorota.unittests/bin/Debug/br.com.maplink.calculorota.unittests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="br.com.maplink.calculorota.unittests.RouteWrapperTest, br.com.maplink.calculorota.unittests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetRouteTest" />
+    </UnitTest>
+    <UnitTest name="CalcularRotaTest" storage="c:\users\psmmarques\documents\visual studio 2010\projects\br.com.maplink.calculorota\tests\br.com.maplink.calculorota.unittests\bin\debug\br.com.maplink.calculorota.unittests.dll" id="d923a444-9b67-a4e2-859f-4cddafcb0f92">
+      <Execution id="a062f55f-9478-4459-8af2-d75fe8ed56ad" />
+      <TestMethod codeBase="C:/Users/psmmarques/documents/visual studio 2010/Projects/br.com.maplink.calculorota/Tests/br.com.maplink.calculorota.unittests/bin/Debug/br.com.maplink.calculorota.unittests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="br.com.maplink.calculorota.unittests.CalculoRotaDataTest, br.com.maplink.calculorota.unittests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalcularRotaTest" />
+    </UnitTest>
+    <UnitTest name="CalcularRotaTest" storage="c:\users\psmmarques\documents\visual studio 2010\projects\br.com.maplink.calculorota\tests\br.com.maplink.calculorota.unittests\bin\debug\br.com.maplink.calculorota.unittests.dll" id="296bbc09-7e41-1120-0ba3-de88729b21e4">
+      <Execution id="7fefa7f9-72e6-4cfe-b85b-5a9d8c02df24" />
+      <TestMethod codeBase="C:/Users/psmmarques/documents/visual studio 2010/Projects/br.com.maplink.calculorota/Tests/br.com.maplink.calculorota.unittests/bin/Debug/br.com.maplink.calculorota.unittests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="br.com.maplink.calculorota.unittests.CalculoRotaBusinessTest, br.com.maplink.calculorota.unittests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalcularRotaTest" />
+    </UnitTest>
+    <UnitTest name="ObterCoordenadasTest" storage="c:\users\psmmarques\documents\visual studio 2010\projects\br.com.maplink.calculorota\tests\br.com.maplink.calculorota.unittests\bin\debug\br.com.maplink.calculorota.unittests.dll" id="2b7f4532-2707-698c-f1c3-62cbbbb89251">
+      <Execution id="e5068db7-a267-4a45-8328-a12b0b0cc467" />
+      <TestMethod codeBase="C:/Users/psmmarques/documents/visual studio 2010/Projects/br.com.maplink.calculorota/Tests/br.com.maplink.calculorota.unittests/bin/Debug/br.com.maplink.calculorota.unittests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="br.com.maplink.calculorota.unittests.CalculoRotaDataTest, br.com.maplink.calculorota.unittests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ObterCoordenadasTest" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="c:\users\psmmarques\documents\visual studio 2010\projects\br.com.maplink.calculorota\tests\br.com.maplink.calculorota.unittests\bin\debug\br.com.maplink.calculorota.unittests.dll" id="867ba4fe-ce9b-9bc4-7fc8-bfe0eb10513a">
+      <Execution id="4299fcc7-4384-46f7-8759-574d02eab3eb" />
+      <TestMethod codeBase="C:/Users/psmmarques/documents/visual studio 2010/Projects/br.com.maplink.calculorota/Tests/br.com.maplink.calculorota.unittests/bin/Debug/br.com.maplink.calculorota.unittests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="br.com.maplink.calculorota.unittests.UnitTest1, br.com.maplink.calculorota.unittests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="296bbc09-7e41-1120-0ba3-de88729b21e4" executionId="7fefa7f9-72e6-4cfe-b85b-5a9d8c02df24" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2b7f4532-2707-698c-f1c3-62cbbbb89251" executionId="e5068db7-a267-4a45-8328-a12b0b0cc467" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="867ba4fe-ce9b-9bc4-7fc8-bfe0eb10513a" executionId="4299fcc7-4384-46f7-8759-574d02eab3eb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b9fc0699-3bd5-c8be-d85b-14771ae67254" executionId="326cb1cb-473a-49f9-96bb-d947a59e5ccc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d923a444-9b67-a4e2-859f-4cddafcb0f92" executionId="a062f55f-9478-4459-8af2-d75fe8ed56ad" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="7fefa7f9-72e6-4cfe-b85b-5a9d8c02df24" testId="296bbc09-7e41-1120-0ba3-de88729b21e4" testName="CalcularRotaTest" computerName="SPONBBT020303" duration="00:00:04.6211634" startTime="2013-10-15T17:40:40.6647010-03:00" endTime="2013-10-15T17:40:46.2462591-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7fefa7f9-72e6-4cfe-b85b-5a9d8c02df24">
+    </UnitTestResult>
+    <UnitTestResult executionId="e5068db7-a267-4a45-8328-a12b0b0cc467" testId="2b7f4532-2707-698c-f1c3-62cbbbb89251" testName="ObterCoordenadasTest" computerName="SPONBBT020303" duration="00:00:00.9307467" startTime="2013-10-15T17:40:46.2522597-03:00" endTime="2013-10-15T17:40:47.3043649-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e5068db7-a267-4a45-8328-a12b0b0cc467">
+    </UnitTestResult>
+    <UnitTestResult executionId="4299fcc7-4384-46f7-8759-574d02eab3eb" testId="867ba4fe-ce9b-9bc4-7fc8-bfe0eb10513a" testName="TestMethod1" computerName="SPONBBT020303" duration="00:00:00.0001561" startTime="2013-10-15T17:40:47.3103655-03:00" endTime="2013-10-15T17:40:47.3133658-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4299fcc7-4384-46f7-8759-574d02eab3eb">
+    </UnitTestResult>
+    <UnitTestResult executionId="326cb1cb-473a-49f9-96bb-d947a59e5ccc" testId="b9fc0699-3bd5-c8be-d85b-14771ae67254" testName="GetRouteTest" computerName="SPONBBT020303" duration="00:00:01.2357172" startTime="2013-10-15T17:40:47.3173662-03:00" endTime="2013-10-15T17:40:48.7115056-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="326cb1cb-473a-49f9-96bb-d947a59e5ccc">
+    </UnitTestResult>
+    <UnitTestResult executionId="a062f55f-9478-4459-8af2-d75fe8ed56ad" testId="d923a444-9b67-a4e2-859f-4cddafcb0f92" testName="CalcularRotaTest" computerName="SPONBBT020303" duration="00:00:00.0567559" startTime="2013-10-15T17:40:48.7165061-03:00" endTime="2013-10-15T17:40:48.7895134-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a062f55f-9478-4459-8af2-d75fe8ed56ad">
+    </UnitTestResult>
+  </Results>
+</TestRun>

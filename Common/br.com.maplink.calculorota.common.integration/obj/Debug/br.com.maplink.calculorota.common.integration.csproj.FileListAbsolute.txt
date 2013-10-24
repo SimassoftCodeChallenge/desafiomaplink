@@ -1,0 +1,20 @@
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\bin\Debug\maplink.calculorota.common.integration.dll.config
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\bin\Debug\maplink.calculorota.common.integration.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\bin\Debug\maplink.calculorota.common.integration.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\bin\Debug\maplink.calculorota.common.config.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\bin\Debug\maplink.calculorota.common.config.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\obj\Debug\maplink.calculorota.common.integration.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\obj\Debug\maplink.calculorota.common.integration.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\bin\Debug\br.com.maplink.calculorota.common.errorlog.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\bin\Debug\br.com.maplink.calculorota.common.errorlog.pdb
+F:\desafio\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\bin\Debug\maplink.calculorota.common.integration.dll.config
+F:\desafio\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\bin\Debug\maplink.calculorota.common.integration.dll
+F:\desafio\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\bin\Debug\maplink.calculorota.common.integration.pdb
+F:\desafio\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\bin\Debug\maplink.calculorota.common.config.dll
+F:\desafio\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\bin\Debug\br.com.maplink.calculorota.common.errorlog.dll
+F:\desafio\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\bin\Debug\maplink.calculorota.common.config.pdb
+F:\desafio\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\bin\Debug\br.com.maplink.calculorota.common.errorlog.pdb
+F:\desafio\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\obj\Debug\br.com.maplink.calculorota.common.integration.csprojResolveAssemblyReference.cache
+F:\desafio\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\obj\Debug\maplink.calculorota.common.integration.dll
+F:\desafio\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\obj\Debug\maplink.calculorota.common.integration.pdb

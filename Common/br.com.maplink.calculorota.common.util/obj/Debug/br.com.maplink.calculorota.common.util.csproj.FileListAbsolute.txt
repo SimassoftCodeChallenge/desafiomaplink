@@ -1,0 +1,8 @@
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.util\bin\Debug\br.com.maplink.calculorota.common.util.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.util\bin\Debug\br.com.maplink.calculorota.common.util.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.util\bin\Debug\AutoMapper.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.util\bin\Debug\AutoMapper.Net4.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.util\bin\Debug\AutoMapper.xml
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.util\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.util\obj\Debug\br.com.maplink.calculorota.common.util.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.util\obj\Debug\br.com.maplink.calculorota.common.util.pdb

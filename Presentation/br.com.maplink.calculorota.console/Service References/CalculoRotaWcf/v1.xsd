@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:ser="http://schemas.microsoft.com/2003/10/Serialization/" elementFormDefault="qualified" targetNamespace="http://www.maplink.com.br/caculorota/v1" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+  <xs:element name="CalcularRotaMaisRapida">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://www.maplink.com.br/caculorota/v1" minOccurs="0" name="entrada" nillable="true" type="q1:ArrayOfDadosEntrada" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="ArrayOfDadosEntrada">
+    <xs:sequence>
+      <xs:element xmlns:q2="http://www.maplink.com.br/caculorota/v1" minOccurs="0" maxOccurs="unbounded" name="DadosEntrada" type="q2:DadosEntrada" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element xmlns:q3="http://www.maplink.com.br/caculorota/v1" name="ArrayOfDadosEntrada" nillable="true" type="q3:ArrayOfDadosEntrada" />
+  <xs:complexType name="DadosEntrada">
+    <xs:annotation>
+      <xs:appinfo>
+        <IsValueType xmlns="http://schemas.microsoft.com/2003/10/Serialization/">true</IsValueType>
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Cep" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Cidade" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Estado" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Numero" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Rua" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element xmlns:q4="http://www.maplink.com.br/caculorota/v1" name="DadosEntrada" nillable="true" type="q4:DadosEntrada" />
+  <xs:element name="CalcularRotaMaisRapidaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://www.maplink.com.br/caculorota/v1" minOccurs="0" name="CalcularRotaMaisRapidaResult" nillable="true" type="q5:ResultadoCalculo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="ResultadoCalculo">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CustoTotalCombustivel" type="xs:decimal" />
+      <xs:element minOccurs="0" name="CustoTotalPedagio" type="xs:decimal" />
+      <xs:element minOccurs="0" name="DistanciaTotalRota" type="xs:long" />
+      <xs:element minOccurs="0" name="TempoTotalRota" type="ser:duration" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element xmlns:q6="http://www.maplink.com.br/caculorota/v1" name="ResultadoCalculo" nillable="true" type="q6:ResultadoCalculo" />
+  <xs:element name="CalcularRotaEvitandoTransito">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q7="http://www.maplink.com.br/caculorota/v1" minOccurs="0" name="entrada" nillable="true" type="q7:ArrayOfDadosEntrada" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CalcularRotaEvitandoTransitoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q8="http://www.maplink.com.br/caculorota/v1" minOccurs="0" name="CalcularRotaEvitandoTransitoResult" nillable="true" type="q8:ResultadoCalculo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="br.com.maplink.calculorota.common.integration.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="br_com_maplink_calculorota_common_integration_AddresFinder_AddressFinder" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://services.maplink.com.br/webservices/v3/AddressFinder/AddressFinder.asmx</Value>
+    </Setting>
+    <Setting Name="br_com_maplink_calculorota_common_integration_Route_Route" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://services.maplink.com.br/webservices/v3/route/route.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

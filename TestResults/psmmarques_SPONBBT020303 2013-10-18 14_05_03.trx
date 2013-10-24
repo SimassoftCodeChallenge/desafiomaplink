@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="66f0dc06-bc54-4e23-ae8d-2dd61302c1f6" name="psmmarques@SPONBBT020303 2013-10-18 14:05:03" runUser="INTRA\psmmarques" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="6bcf1d68-6e08-48b3-878b-45c9118dde71">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="psmmarques_SPONBBT020303 2013-10-18 14_05_03">
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.entit\bin\Debug\maplink.calculorota.business.entities.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\packages\AutoMapper.3.0.0\lib\net40\AutoMapper.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\bin\Debug\maplink.calculorota.common.integration.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business\bin\Debug\maplink.calculorota.business.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.config\bin\Debug\maplink.calculorota.common.config.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.util\bin\Debug\br.com.maplink.calculorota.common.util.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\packages\AutoMapper.3.0.0\lib\net40\AutoMapper.Net4.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.dtos\bin\Debug\maplink.calculorota.business.dtos.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Data\br.com.maplink.calculorota.data\bin\Debug\br.com.maplink.calculorota.data.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-10-18T14:05:03.8948770-03:00" queuing="2013-10-18T14:05:09.7304605-03:00" start="2013-10-18T14:05:10.1505025-03:00" finish="2013-10-18T14:05:34.9019774-03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="SPONBBT020303" outcome="Error" timestamp="2013-10-18T14:05:34.8919764-03:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CalcularRotaEvitandoTransitoTest" storage="c:\users\psmmarques\documents\visual studio 2010\projects\br.com.maplink.calculorota\tests\br.com.maplink.calculorota.unittests\bin\debug\br.com.maplink.calculorota.unittests.dll" id="fad72eea-0233-c8f8-687b-4323140ec8ce">
+      <Execution id="a41fd7c7-ab8e-4604-a2ba-f3d62ecf6a4f" />
+      <TestMethod codeBase="C:/Users/psmmarques/documents/visual studio 2010/Projects/br.com.maplink.calculorota/Tests/br.com.maplink.calculorota.unittests/bin/Debug/br.com.maplink.calculorota.unittests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="br.com.maplink.calculorota.unittests.CalculoRotaWrapperTest, br.com.maplink.calculorota.unittests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalcularRotaEvitandoTransitoTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="fad72eea-0233-c8f8-687b-4323140ec8ce" executionId="a41fd7c7-ab8e-4604-a2ba-f3d62ecf6a4f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a41fd7c7-ab8e-4604-a2ba-f3d62ecf6a4f" testId="fad72eea-0233-c8f8-687b-4323140ec8ce" testName="CalcularRotaEvitandoTransitoTest" computerName="SPONBBT020303" duration="00:00:24.2834281" startTime="2013-10-18T14:05:10.6185493-03:00" endTime="2013-10-18T14:05:34.9019774-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a41fd7c7-ab8e-4604-a2ba-f3d62ecf6a4f">
+    </UnitTestResult>
+  </Results>
+</TestRun>

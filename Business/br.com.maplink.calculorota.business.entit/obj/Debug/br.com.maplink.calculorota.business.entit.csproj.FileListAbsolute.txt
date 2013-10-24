@@ -1,0 +1,5 @@
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.entit\bin\Debug\maplink.calculorota.business.entities.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.entit\bin\Debug\maplink.calculorota.business.entities.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.entit\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.entit\obj\Debug\maplink.calculorota.business.entities.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.entit\obj\Debug\maplink.calculorota.business.entities.pdb

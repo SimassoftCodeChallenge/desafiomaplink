@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="39b13f19-21b0-45f6-a34e-b489787043aa" name="psmmarques@SPONBBT020303 2013-10-18 14:43:10" runUser="INTRA\psmmarques" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="6bcf1d68-6e08-48b3-878b-45c9118dde71">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="psmmarques_SPONBBT020303 2013-10-18 14_43_10">
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.entit\bin\Debug\maplink.calculorota.business.entities.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\packages\AutoMapper.3.0.0\lib\net40\AutoMapper.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.integration\bin\Debug\maplink.calculorota.common.integration.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business\bin\Debug\maplink.calculorota.business.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.config\bin\Debug\maplink.calculorota.common.config.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.util\bin\Debug\br.com.maplink.calculorota.common.util.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\packages\AutoMapper.3.0.0\lib\net40\AutoMapper.Net4.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.dtos\bin\Debug\maplink.calculorota.business.dtos.dll" />
+      <DeploymentItem filename="C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Data\br.com.maplink.calculorota.data\bin\Debug\br.com.maplink.calculorota.data.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-10-18T14:43:10.2124859-03:00" queuing="2013-10-18T14:43:12.6217268-03:00" start="2013-10-18T14:43:12.8557502-03:00" finish="2013-10-18T14:43:14.3208967-03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="1" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CalcularRotaTest" storage="c:\users\psmmarques\documents\visual studio 2010\projects\br.com.maplink.calculorota\tests\br.com.maplink.calculorota.unittests\bin\debug\maplink.calculorota.unittests.dll" id="296bbc09-7e41-1120-0ba3-de88729b21e4">
+      <Execution id="7f541aef-6d08-4f7e-bf92-ed2add21a852" />
+      <TestMethod codeBase="C:/Users/psmmarques/documents/visual studio 2010/Projects/br.com.maplink.calculorota/Tests/br.com.maplink.calculorota.unittests/bin/Debug/maplink.calculorota.unittests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="br.com.maplink.calculorota.unittests.CalculoRotaBusinessTest, maplink.calculorota.unittests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalcularRotaTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="296bbc09-7e41-1120-0ba3-de88729b21e4" executionId="7f541aef-6d08-4f7e-bf92-ed2add21a852" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="7f541aef-6d08-4f7e-bf92-ed2add21a852" testId="296bbc09-7e41-1120-0ba3-de88729b21e4" testName="CalcularRotaTest" computerName="SPONBBT020303" startTime="2013-10-18T14:43:13.0827729-03:00" endTime="2013-10-18T14:43:14.2548901-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7f541aef-6d08-4f7e-bf92-ed2add21a852">
+      <Output>
+        <ErrorInfo>
+          <Message>Unit Test Adapter threw exception: 
+O inicializador de tipo de 'Microsoft.VisualStudio.TestTools.Diagnostics.EqtTrace' acionou uma exceção.
+O sistema de configuração falhou ao inicializar
+Seção de configuração não reconhecida bindings. (C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Tests\br.com.maplink.calculorota.unittests\bin\Debug\maplink.calculorota.unittests.DLL.config line 40).</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

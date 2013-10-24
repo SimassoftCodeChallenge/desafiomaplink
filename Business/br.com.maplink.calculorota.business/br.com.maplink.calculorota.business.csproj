@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C5690998-B058-4530-ADFE-2B59B22B29FD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>br.com.maplink.calculorota.business</RootNamespace>
+    <AssemblyName>maplink.calculorota.business</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CalculoRotaBusiness.cs" />
+    <Compile Include="Exceptions\CalculoRotaBusinessException.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\br.com.maplink.calculorota.common.util\br.com.maplink.calculorota.common.util.csproj">
+      <Project>{C52A660E-E9A1-46B9-A65A-8696DBA7EA16}</Project>
+      <Name>br.com.maplink.calculorota.common.util</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Data\br.com.maplink.calculorota.data\br.com.maplink.calculorota.data.csproj">
+      <Project>{6A58C043-F441-4FA5-BA15-52539FB97BD9}</Project>
+      <Name>br.com.maplink.calculorota.data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\br.com.maplink.calculorota.business.dtos\br.com.maplink.calculorota.business.dtos.csproj">
+      <Project>{5AA405BD-ED14-4DD5-95C7-BEDD146C3C57}</Project>
+      <Name>br.com.maplink.calculorota.business.dtos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\br.com.maplink.calculorota.business.entit\br.com.maplink.calculorota.business.entit.csproj">
+      <Project>{D62A4DBC-0ED2-4A21-9D5D-AAC2261AAFBA}</Project>
+      <Name>br.com.maplink.calculorota.business.entit</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.config\bin\Debug\maplink.calculorota.common.config.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.config\bin\Debug\maplink.calculorota.common.config.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.config\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.config\obj\Debug\maplink.calculorota.common.config.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.config\obj\Debug\maplink.calculorota.common.config.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.config\bin\Debug\br.com.maplink.calculorota.common.errorlog.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.config\bin\Debug\br.com.maplink.calculorota.common.errorlog.pdb
+F:\desafio\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.config\bin\Debug\maplink.calculorota.common.config.dll
+F:\desafio\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.config\bin\Debug\maplink.calculorota.common.config.pdb
+F:\desafio\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.config\bin\Debug\br.com.maplink.calculorota.common.errorlog.dll
+F:\desafio\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.config\bin\Debug\br.com.maplink.calculorota.common.errorlog.pdb
+F:\desafio\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.config\obj\Debug\br.com.maplink.calculorota.common.config.csprojResolveAssemblyReference.cache
+F:\desafio\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.config\obj\Debug\maplink.calculorota.common.config.dll
+F:\desafio\br.com.maplink.calculorota\Common\br.com.maplink.calculorota.common.config\obj\Debug\maplink.calculorota.common.config.pdb

@@ -1,0 +1,49 @@
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\br.com.maplink.calculorota.webapp\bin\br.com.maplink.calculorota.webapp.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\br.com.maplink.calculorota.webapp\bin\br.com.maplink.calculorota.webapp.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\br.com.maplink.calculorota.webapp\bin\br.com.maplink.calculorota.common.util.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\br.com.maplink.calculorota.webapp\bin\maplink.calculorota.business.dtos.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\br.com.maplink.calculorota.webapp\bin\maplink.calculorota.common.integration.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\br.com.maplink.calculorota.webapp\bin\maplink.calculorota.common.config.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\br.com.maplink.calculorota.webapp\bin\AutoMapper.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\br.com.maplink.calculorota.webapp\bin\maplink.calculorota.business.dtos.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\br.com.maplink.calculorota.webapp\bin\maplink.calculorota.common.integration.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\br.com.maplink.calculorota.webapp\bin\br.com.maplink.calculorota.common.util.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\br.com.maplink.calculorota.webapp\bin\maplink.calculorota.common.config.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\br.com.maplink.calculorota.webapp\bin\AutoMapper.xml
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\br.com.maplink.calculorota.webapp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\br.com.maplink.calculorota.webapp\obj\Debug\br.com.maplink.calculorota.webapp.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\br.com.maplink.calculorota.webapp\obj\Debug\br.com.maplink.calculorota.webapp.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\br.com.maplink.calculorota.webapp.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\br.com.maplink.calculorota.webapp.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\br.com.maplink.calculorota.common.util.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\maplink.calculorota.business.dtos.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\maplink.calculorota.common.integration.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\maplink.calculorota.common.config.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\AutoMapper.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\maplink.calculorota.business.dtos.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\maplink.calculorota.common.integration.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\br.com.maplink.calculorota.common.util.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\maplink.calculorota.common.config.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\AutoMapper.xml
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\obj\Debug\br.com.maplink.calculorota.webapp.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\obj\Debug\br.com.maplink.calculorota.webapp.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\br.com.maplink.calculorota.common.errorlog.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\br.com.maplink.calculorota.common.errorlog.pdb
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\br.com.maplink.calculorota.webapp.dll
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\br.com.maplink.calculorota.webapp.pdb
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\br.com.maplink.calculorota.common.util.dll
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\maplink.calculorota.business.dtos.dll
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\maplink.calculorota.common.integration.dll
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\maplink.calculorota.common.config.dll
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\AutoMapper.dll
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\br.com.maplink.calculorota.common.errorlog.dll
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\maplink.calculorota.business.dtos.pdb
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\maplink.calculorota.common.integration.pdb
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\br.com.maplink.calculorota.common.util.pdb
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\maplink.calculorota.common.config.pdb
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\AutoMapper.xml
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\bin\br.com.maplink.calculorota.common.errorlog.pdb
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\obj\Debug\br.com.maplink.calculorota.webapp.csprojResolveAssemblyReference.cache
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\obj\Debug\br.com.maplink.calculorota.webapp.dll
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.webapp\obj\Debug\br.com.maplink.calculorota.webapp.pdb

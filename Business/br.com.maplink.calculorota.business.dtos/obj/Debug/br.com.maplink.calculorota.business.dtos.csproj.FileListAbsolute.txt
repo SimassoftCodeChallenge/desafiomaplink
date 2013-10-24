@@ -1,0 +1,9 @@
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.dtos\bin\Debug\maplink.calculorota.business.dtos.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.dtos\bin\Debug\maplink.calculorota.business.dtos.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.dtos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.dtos\obj\Debug\maplink.calculorota.business.dtos.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.dtos\obj\Debug\maplink.calculorota.business.dtos.pdb
+F:\desafio\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.dtos\bin\Debug\maplink.calculorota.business.dtos.dll
+F:\desafio\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.dtos\bin\Debug\maplink.calculorota.business.dtos.pdb
+F:\desafio\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.dtos\obj\Debug\maplink.calculorota.business.dtos.dll
+F:\desafio\br.com.maplink.calculorota\Business\br.com.maplink.calculorota.business.dtos\obj\Debug\maplink.calculorota.business.dtos.pdb

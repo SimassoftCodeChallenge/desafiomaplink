@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="br.com.maplink.calculorota.wcfdmz.CalculoRotaSoap" CodeBehind="CalculoRotaSoap.svc.cs" %>

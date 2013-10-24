@@ -1,0 +1,18 @@
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Services\br.com.maplink.calculorota.wcf.contracts\bin\Debug\maplink.calculorota.wcf.contracts.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Services\br.com.maplink.calculorota.wcf.contracts\bin\Debug\maplink.calculorota.wcf.contracts.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Services\br.com.maplink.calculorota.wcf.contracts\bin\Debug\maplink.calculorota.business.dtos.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Services\br.com.maplink.calculorota.wcf.contracts\bin\Debug\maplink.calculorota.common.wcf.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Services\br.com.maplink.calculorota.wcf.contracts\bin\Debug\maplink.calculorota.business.dtos.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Services\br.com.maplink.calculorota.wcf.contracts\bin\Debug\maplink.calculorota.common.wcf.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Services\br.com.maplink.calculorota.wcf.contracts\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Services\br.com.maplink.calculorota.wcf.contracts\obj\Debug\maplink.calculorota.wcf.contracts.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Services\br.com.maplink.calculorota.wcf.contracts\obj\Debug\maplink.calculorota.wcf.contracts.pdb
+F:\desafio\br.com.maplink.calculorota\Services\br.com.maplink.calculorota.wcf.contracts\bin\Debug\maplink.calculorota.wcf.contracts.dll
+F:\desafio\br.com.maplink.calculorota\Services\br.com.maplink.calculorota.wcf.contracts\bin\Debug\maplink.calculorota.wcf.contracts.pdb
+F:\desafio\br.com.maplink.calculorota\Services\br.com.maplink.calculorota.wcf.contracts\bin\Debug\maplink.calculorota.business.dtos.dll
+F:\desafio\br.com.maplink.calculorota\Services\br.com.maplink.calculorota.wcf.contracts\bin\Debug\maplink.calculorota.common.wcf.dll
+F:\desafio\br.com.maplink.calculorota\Services\br.com.maplink.calculorota.wcf.contracts\bin\Debug\maplink.calculorota.business.dtos.pdb
+F:\desafio\br.com.maplink.calculorota\Services\br.com.maplink.calculorota.wcf.contracts\bin\Debug\maplink.calculorota.common.wcf.pdb
+F:\desafio\br.com.maplink.calculorota\Services\br.com.maplink.calculorota.wcf.contracts\obj\Debug\br.com.maplink.calculorota.wcf.contracts.csprojResolveAssemblyReference.cache
+F:\desafio\br.com.maplink.calculorota\Services\br.com.maplink.calculorota.wcf.contracts\obj\Debug\maplink.calculorota.wcf.contracts.dll
+F:\desafio\br.com.maplink.calculorota\Services\br.com.maplink.calculorota.wcf.contracts\obj\Debug\maplink.calculorota.wcf.contracts.pdb

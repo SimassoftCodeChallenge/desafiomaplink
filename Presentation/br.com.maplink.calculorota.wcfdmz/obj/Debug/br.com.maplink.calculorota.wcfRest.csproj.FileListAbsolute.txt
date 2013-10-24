@@ -1,0 +1,42 @@
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\br.com.maplink.calculorota.wcfdmz.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\br.com.maplink.calculorota.wcfdmz.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\br.com.maplink.calculorota.common.util.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.business.dtos.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.common.integration.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.common.wcf.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.wcf.contracts.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.common.config.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\AutoMapper.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\br.com.maplink.calculorota.common.errorlog.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.business.dtos.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.common.integration.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\br.com.maplink.calculorota.common.util.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.common.wcf.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.wcf.contracts.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.common.config.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\AutoMapper.xml
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\br.com.maplink.calculorota.common.errorlog.pdb
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\obj\Debug\br.com.maplink.calculorota.wcfdmz.dll
+C:\Users\psmmarques\documents\visual studio 2010\Projects\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\obj\Debug\br.com.maplink.calculorota.wcfdmz.pdb
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\br.com.maplink.calculorota.wcfdmz.dll
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\br.com.maplink.calculorota.wcfdmz.pdb
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\br.com.maplink.calculorota.common.util.dll
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.business.dtos.dll
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.common.integration.dll
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.common.wcf.dll
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.wcf.contracts.dll
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.common.config.dll
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\AutoMapper.dll
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\br.com.maplink.calculorota.common.errorlog.dll
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.business.dtos.pdb
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.common.integration.pdb
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\br.com.maplink.calculorota.common.util.pdb
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.common.wcf.pdb
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.wcf.contracts.pdb
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\maplink.calculorota.common.config.pdb
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\AutoMapper.xml
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\bin\br.com.maplink.calculorota.common.errorlog.pdb
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\obj\Debug\br.com.maplink.calculorota.wcfRest.csprojResolveAssemblyReference.cache
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\obj\Debug\br.com.maplink.calculorota.wcfdmz.dll
+F:\desafio\br.com.maplink.calculorota\Presentation\br.com.maplink.calculorota.wcfdmz\obj\Debug\br.com.maplink.calculorota.wcfdmz.pdb

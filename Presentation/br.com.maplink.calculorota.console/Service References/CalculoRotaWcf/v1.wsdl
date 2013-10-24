@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://www.maplink.com.br/caculorota/v1" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.maplink.com.br/caculorota/v1" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://www.maplink.com.br/caculorota/v1/Imports">
+      <xsd:import namespace="http://www.maplink.com.br/caculorota/v1" />
+      <xsd:import namespace="http://schemas.datacontract.org/2004/07/br.com.maplink.calculorota.common.wcf" />
+      <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ICalculoRota_CalcularRotaMaisRapida_InputMessage">
+    <wsdl:part name="parameters" element="tns:CalcularRotaMaisRapida" />
+  </wsdl:message>
+  <wsdl:message name="ICalculoRota_CalcularRotaMaisRapida_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CalcularRotaMaisRapidaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICalculoRota_CalcularRotaMaisRapida_WcfCalculoRotaFaultFault_FaultMessage">
+    <wsdl:part xmlns:q1="http://schemas.datacontract.org/2004/07/br.com.maplink.calculorota.common.wcf" name="detail" element="q1:WcfCalculoRotaFault" />
+  </wsdl:message>
+  <wsdl:message name="ICalculoRota_CalcularRotaEvitandoTransito_InputMessage">
+    <wsdl:part name="parameters" element="tns:CalcularRotaEvitandoTransito" />
+  </wsdl:message>
+  <wsdl:message name="ICalculoRota_CalcularRotaEvitandoTransito_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CalcularRotaEvitandoTransitoResponse" />
+  </wsdl:message>
+  <wsdl:message name="ICalculoRota_CalcularRotaEvitandoTransito_WcfCalculoRotaFaultFault_FaultMessage">
+    <wsdl:part xmlns:q2="http://schemas.datacontract.org/2004/07/br.com.maplink.calculorota.common.wcf" name="detail" element="q2:WcfCalculoRotaFault" />
+  </wsdl:message>
+  <wsdl:portType name="ICalculoRota">
+    <wsdl:operation name="CalcularRotaMaisRapida">
+      <wsdl:input wsam:Action="http://www.maplink.com.br/caculorota/v1/ICalculoRota/CalcularRotaMaisRapida" message="tns:ICalculoRota_CalcularRotaMaisRapida_InputMessage" />
+      <wsdl:output wsam:Action="http://www.maplink.com.br/caculorota/v1/ICalculoRota/CalcularRotaMaisRapidaResponse" message="tns:ICalculoRota_CalcularRotaMaisRapida_OutputMessage" />
+      <wsdl:fault wsam:Action="http://www.maplink.com.br/caculorota/v1/ICalculoRota/CalcularRotaMaisRapidaWcfCalculoRotaFaultFault" name="WcfCalculoRotaFaultFault" message="tns:ICalculoRota_CalcularRotaMaisRapida_WcfCalculoRotaFaultFault_FaultMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CalcularRotaEvitandoTransito">
+      <wsdl:input wsam:Action="http://www.maplink.com.br/caculorota/v1/ICalculoRota/CalcularRotaEvitandoTransito" message="tns:ICalculoRota_CalcularRotaEvitandoTransito_InputMessage" />
+      <wsdl:output wsam:Action="http://www.maplink.com.br/caculorota/v1/ICalculoRota/CalcularRotaEvitandoTransitoResponse" message="tns:ICalculoRota_CalcularRotaEvitandoTransito_OutputMessage" />
+      <wsdl:fault wsam:Action="http://www.maplink.com.br/caculorota/v1/ICalculoRota/CalcularRotaEvitandoTransitoWcfCalculoRotaFaultFault" name="WcfCalculoRotaFaultFault" message="tns:ICalculoRota_CalcularRotaEvitandoTransito_WcfCalculoRotaFaultFault_FaultMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+</wsdl:definitions>
